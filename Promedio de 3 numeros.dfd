@@ -1,0 +1,43 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+70
+'Hola usuario, ingrese 3 numeros diferentes para calcular su promedio'
+5
+1
+8
+a , b, c
+6
+3
+4
+num1
+1
+a
+4
+num2
+1
+b
+4
+num3
+1
+c
+6
+2
+4
+suma
+9
+a + b + c
+8
+promedio
+8
+suma / 3
+4
+1
+47
+'El promedio de los 3 numeros es = ' , promedio
+1
